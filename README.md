@@ -18,22 +18,22 @@ This course is virtual and will run twice a week from 21 May until 6 June 2024
 
 This virtual bioinformatics course will offer a series of lectures and practical sessions including the following topics:
 
-Pathogen genome assembly
-Annotation of pathogen genomes
-Phylogenetics in clinical contexts
+- Pathogen genome assembly
+- Annotation of pathogen genomes
+- Phylogenetics in clinical contexts
 
 ## Learning Outcomes
 
 At the end of this course, participants will be able to:
 
-Apply appropriate tools to analyse WGS data of bacterial genomes
-Identify sequencing data formats
-Use pathogen genomic analysis web-tools to process sequence data
-Execute the basic processes of genome assembly for pathogen species
-Identify and interrogate antibiotic resistance genes and mutations
-Implement data workflows and bioinformatic analysis of genomic sequence data, including risk and resistance prediction for bacterial epidemiology and pandemic response
-Conduct phylogenetic analysis in the context of outbreak and other epidemiological investigations
-Compare phylogenetic trees for different species and outbreak scenarios
+- Apply appropriate tools to analyse WGS data of bacterial genomes
+- Identify sequencing data formats
+- Use pathogen genomic analysis web-tools to process sequence data
+- Execute the basic processes of genome assembly for pathogen species
+- Identify and interrogate antibiotic resistance genes and mutations
+- Implement data workflows and bioinformatic analysis of genomic sequence data, including risk and resistance prediction for bacterial epidemiology and pandemic response
+- Conduct phylogenetic analysis in the context of outbreak and other epidemiological investigations
+- Compare phylogenetic trees for different species and outbreak scenarios
 
 ## Training Team
 - [Trinh Son Tung](link),OUCRU
@@ -44,26 +44,19 @@ Compare phylogenetic trees for different species and outbreak scenarios
 - [Collins Kigen](link),Kenya Medical Research Institute
 - [Buhle Ntozini](link),National Institute for Communicable Diseases, South Africa
 
-- [Jorge Batista da Rocha][link]https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/),Wellcome Connecting Science
+- [Jorge Batista da Rocha][https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/),Wellcome Connecting Science
 - [Trinh Son Tung](link),OUCRU
-- [Vaishnavi Vikas Gangadhar]([link](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/)),Wellcome Connecting Science
-- [Isabela Malta](link),Wellcome Connecting Science
-- [Martin Aslett](link),Wellcome Connecting Science
-- [Alice Matimba](link),AWellcome Connecting Science
-
-### Overview
-
+- [Vaishnavi Vikas Gangadhar]((https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/)),Wellcome Connecting Science
+- [Isabela Malta]((https://www.wellcomeconnectingscience.org/person/malta-isabela/)),Wellcome Connecting Science
+- [Martin Aslett]((https://www.wellcomeconnectingscience.org/person/aslett-martin/)),Wellcome Connecting Science
+- [Alice Matimba]((https://www.wellcomeconnectingscience.org/person/matimba-alice/#)),AWellcome Connecting Science
 
 ### Detailed timetable
 [View Timetable here]()
 
-
-
 ## Course manual
 **Module 1 - Mod 1**   
 [PDF Manual - Mod 1](Modules/)     
-
-
 
 **Module 3 - **  
 [Online Manual - Introduction to NGS](Modules/)
