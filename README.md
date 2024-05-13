@@ -36,7 +36,7 @@ At the end of this course, participants will be able to:
 - Compare phylogenetic trees for different species and outbreak scenarios
 
 ## Training Team
-- [Trinh Son Tung](link),OUCRU
+- [Trinh Son Tung](https://www.researchgate.net/profile/Tung-Trinh), Oxford University Clinical Research Unit (OUCRU)
 - [Patrick Musicha ](link),Sanger Institute, UK
 - [Julio Diaz](link),CPGR, UK
 - [Arun Decano](link),University of Oxford, UK
@@ -45,7 +45,7 @@ At the end of this course, participants will be able to:
 - [Buhle Ntozini](link),National Institute for Communicable Diseases, South Africa
 
 - [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/),Wellcome Connecting Science
-- [Trinh Son Tung](link),OUCRU
+- [Trinh Son Tung](https://www.researchgate.net/profile/Tung-Trinh), Oxford University Clinical Research Unit (OUCRU)
 - [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/),Wellcome Connecting Science
 - [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/),Wellcome Connecting Science
 - [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/),Wellcome Connecting Science
