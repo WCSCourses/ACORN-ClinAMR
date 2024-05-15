@@ -52,7 +52,7 @@ At the end of this course, participants will be able to:
 - [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#),AWellcome Connecting Science
 
 ### Detailed timetable
-[View Timetable here]()
+[View Timetable here](ACORN_TimeTable.pdf)
 
 ## Course Manual
 
