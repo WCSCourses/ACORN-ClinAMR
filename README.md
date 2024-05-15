@@ -1,4 +1,4 @@
-# <img src="(course_data/WCS_ACORN_Logo.png)" width="200" height="200">
+# ![alt tag](course_data/WCS_ACORN_Logo.png)
 
 # WCS ACORN - Bioinformatics for Antimicrobial Resistance - Virtual 21 May–6 June 2024
 
