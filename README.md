@@ -1,4 +1,4 @@
-# <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
+# <img src="(https://drive.google.com/file/d/1Uw7VN5mObFG5NHaJFMEFMcNEHNeyWKPv/view?usp=sharing)" width="200" height="200">
 
 # WCS ACORN - Bioinformatics for Antimicrobial Resistance - Virtual 21 May–6 June 2024
 
