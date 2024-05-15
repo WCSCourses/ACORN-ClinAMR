@@ -54,22 +54,59 @@ At the end of this course, participants will be able to:
 ### Detailed timetable
 [View Timetable here]()
 
-## Course manual
-**Module 1 - Mod 1**   
-[PDF Manual - Mod 1](Modules/)     
+## Course Manual
 
-**Module 3 - **  
-[Online Manual - Introduction to NGS](Modules/)
+**Pre-Course Module** [Introduction to Linux for Biologists (ACORN)](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)  
+
+**Week 1**   
+**21 May Tuesday: Bash, File formats**  
+[GoogleCollabNotebook](Modules/)  
+[Slides](Modules/)  
+[Lecture Video](Modules/)  
+[Post-video Quiz](Modules/)  
+[Assignment](Modules/)  
+
+**Week 1**   
+**23 May Thursday: Read Alignment to Genomes**  
+[GoogleCollabNotebook](Modules/)  
+[Slides](Modules/)  
+[Lecture Video](Modules/)  
+[Post-video Quiz](Modules/)  
+[Assignment](Modules/)  
+
+**Week 2**   
+**28 May Tuesday: Genome Assembly**  
+[GoogleCollabNotebook](Modules/)  
+[Slides](Modules/)  
+[Lecture Video](Modules/)  
+[Post-video Quiz](Modules/)  
+[Assignment](Modules/)  
+
+**Week 2**   
+**30 May Thursday: Typing, AMR databases**  
+[GoogleCollabNotebook](Modules/)  
+[Slides](Modules/)  
+[Lecture Video](Modules/)  
+[Post-video Quiz](Modules/)  
+[Assignment](Modules/)  
+
+**Week 3**   
+**4 June Tuesday: Genome Annotation, PathogenWatch**  
+[GoogleCollabNotebook](Modules/)  
+[Slides](Modules/)  
+[Lecture Video](Modules/)  
+[Post-video Quiz](Modules/)  
+[Assignment](Modules/)  
+
+**Week 3**   
+**6 June Thursday: Phylogenetics, Surveillance**  
+[GoogleCollabNotebook](Modules/)  
+[Slides](Modules/)  
+[Lecture Video](Modules/)  
+[Post-video Quiz](Modules/)  
+[Assignment](Modules/)  
+     
   
-**Module 4 -*  
-[Online Manual - Mod4l QC](Modules/)
-
-
-
-
-**Appendix**      
-  
-
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
