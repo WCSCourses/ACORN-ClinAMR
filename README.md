@@ -60,8 +60,10 @@ At the end of this course, participants will be able to:
 
 **Week 1**   
 **21 May Tuesday: Bash, File formats**  
-[GoogleCollabNotebook](Modules/)  
-[Slides](Modules/)  
+[Day1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
+[GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)  
+[Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash and file formats.pdf)  
+[Module1_Quality Control Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control.pdf)  
 [Lecture Video](Modules/)  
 [Post-video Quiz](Modules/)  
 [Assignment](Modules/)  
