@@ -57,16 +57,17 @@ At the end of this course, participants will be able to:
 ## Course Manual
 
 **Pre-Course Module** [Introduction to Linux for Biologists (ACORN)](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)  
+**Learning and Management (LMS)Course** [Bioinformatics for Antimicrobial Resistance - Virtual course]([https://lms.wellcomeconnectingscience.org/course/view.php?id=165](https://lms.wellcomeconnectingscience.org/course/view.php?id=164))  
 
 **Week 1**   
 **21 May Tuesday: Bash, File formats**  
-[Day1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
-[GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)  
-[Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_file_formats.pdf)  
-[Module1_Quality Control Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control.pdf)  
-[Lecture Video..coming soon](Modules/)  
-[Post-video Quiz..coming soon](Modules/)  
-[Assignment..coming soon](Modules/)  
+- [Day1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
+- [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)  
+- [Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_file_formats.pdf)  
+- [Module1_Quality Control Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control.pdf)  
+- [Lecture Video..coming soon](Modules/)  
+- [Post-video Quiz..coming soon](Modules/)  
+- [Assignment..coming soon](Modules/)  
 
 **Week 1**   
 **23 May Thursday: Read Alignment to Genomes**  
