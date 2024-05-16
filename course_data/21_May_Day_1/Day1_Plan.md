@@ -23,7 +23,7 @@
 | 10:20 GMT  | -----10 min break-----                          |
 | 10:30 GMT  | Continue with practicals for Module 1         |
 | 11:30 GMT  | Questions and Answer sessions in main room    |
-| 12:00 GMT  | End of day                                           |
+| 12:00 GMT  | -----End of day-----                                |
 
 *Note: Adjustments to the schedule might occur.*
 
