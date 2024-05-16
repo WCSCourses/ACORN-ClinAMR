@@ -21,7 +21,7 @@
 
 | Time       | Activity                                      |
 |------------|-----------------------------------------------|
-| 7:55 GMT   | Sign onto the course zoom                    |
+| 7:55 GMT   |  -----Sign onto the course zoom-----              |
 | 8:05 GMT   | Welcome and Introductions                    |
 | 8:20 GMT   | Move to breakout session for lecture watching time |
 | 9:20 GMT   | -----10 min break-----                          |
@@ -34,7 +34,7 @@
 *Note: Adjustments to the schedule might occur.*
 
 ### Post-Session 
-[Learning & Management System (LMS) ACORN Course](#) | [Day 1 Assignment and Quiz](#) 
+[Learning & Management System (LMS) ACORN Course]([#](https://lms.wellcomeconnectingscience.org/course/view.php?id=164)) | [Day 1 Assignment and Quiz](#) 
 
 ### Addition Resources
 If not done yet we also have pre-course [Introduction to Linux ACORN Course](#https://lms.wellcomeconnectingscience.org/course/view.php?id=165) | [Introduction to Sequening](#) 
