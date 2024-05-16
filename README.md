@@ -59,7 +59,7 @@ At the end of this course, participants will be able to:
 **Pre-Course Module** [Introduction to Linux for Biologists (ACORN)](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)  
 **Learning and Management (LMS)Course** [Bioinformatics for Antimicrobial Resistance - Virtual course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)
 
-**Week 1**   
+**Week 1: Day 1**   
 **21 May Tuesday: Bash, File formats**  
 - [Day1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
 - [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)  
@@ -69,7 +69,7 @@ At the end of this course, participants will be able to:
 - [Post-session Quiz..coming soon](Modules/)  
 - [Assignment..coming soon](Modules/)  
 
-**Week 1**   
+**Week 1: Day 2**   
 **23 May Thursday: Read Alignment to Genomes**  
 - [Day1_Plan](course_data/23_May_Day_2) 
 - [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)  
@@ -78,7 +78,7 @@ At the end of this course, participants will be able to:
 - [Post-session Quiz..coming soon](Modules/)  
 - [Assignment..coming soon](Modules/)  
 
-**Week 2**   
+**Week 2: Day 3**   
 **28 May Tuesday: Genome Assembly**  
 - [GoogleCollabNotebook.......coming soon] 
 - [Slides.......coming soon]
@@ -86,7 +86,7 @@ At the end of this course, participants will be able to:
 - [Post-session Quiz.......coming soon]
 - [Assignment.......coming soon]
 
-**Week 2**   
+**Week 2: Day 4**   
 **30 May Thursday: Typing, AMR databases**  
 - [GoogleCollabNotebook.......coming soon] 
 - [Slides.......coming soon]
@@ -94,7 +94,7 @@ At the end of this course, participants will be able to:
 - [Post-session Quiz.......coming soon]
 - [Assignment.......coming soon]
 
-**Week 3**   
+**Week 3: Day 5**   
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
 - [GoogleCollabNotebook.......coming soon] 
 - [Slides.......coming soon]
@@ -102,7 +102,7 @@ At the end of this course, participants will be able to:
 - [Post-session Quiz.......coming soon]
 - [Assignment.......coming soon]
 
-**Week 3**   
+**Week 3: Day 6**   
 **6 June Thursday: Phylogenetics, Surveillance**  
 - [GoogleCollabNotebook.......coming soon] 
 - [Slides.......coming soon]
