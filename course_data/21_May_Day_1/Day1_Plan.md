@@ -11,7 +11,7 @@
 - [Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_file_formats.pdf)  
 - [Module1_Quality Control Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control.pdf)  
 - [Lecture Video..coming soon](Modules/)  
-- [Post-video Quiz..coming soon](Modules/)  
+- [Post-session Quiz..coming soon](Modules/)  
 - [Assignment..coming soon](Modules/)
   
 **Trainers** - Rito Mikhari, Collins Kigen, and the Core Team
