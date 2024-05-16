@@ -19,8 +19,7 @@
 | 8:05 GMT   | Welcome and Introductions                    |
 | 8:20 GMT   | Move to breakout session for lecture watching time |
 | 9:20 GMT   | 10 min break                                  |
-| 9:30 GMT   | Remain in breakout sessions-                  |
-|            | Begin the practicals for Module 1             |
+| 9:30 GMT   | Remain in breakout sessions- Begin the practicals for Module 1                   |
 | 10:20 GMT  | 10 min break                                  |
 | 10:30 GMT  | Continue with practicals for Module 1         |
 | 11:30 GMT  | Questions and Answer sessions in main room    |
@@ -30,3 +29,8 @@
 
 ### Post-Session 
 [Learning & Management System (LMS) ACORN Course](#) | [Day 1 Assignment and Quiz](#) 
+
+### Addition Resources
+If not done yet we also have pre-course [Introduction to Linux ACORN Course](#) | [Introduction to Sequening](#) 
+
+
