@@ -70,19 +70,19 @@ At the end of this course, participants will be able to:
 
 **Week 1**   
 **23 May Thursday: Read Alignment to Genomes**  
-[GoogleCollabNotebook..coming soon](Modules/)  
-[Slides..coming soon](Modules/)  
-[Lecture Video..coming soon](Modules/)  
-[Post-video Quiz..coming soon](Modules/)  
-[Assignment..coming soon](Modules/)  
+[GoogleCollabNotebook   ..coming soon] 
+[Slides   ..coming soon]
+[Lecture Video   ..coming soon]
+[Post-video Quiz   ..coming soon]
+[Assignment   ..coming soon]
 
 **Week 2**   
 **28 May Tuesday: Genome Assembly**  
-[GoogleCollabNotebook..coming soon](Modules/)  
-[Slides..coming soon](Modules/)  
-[Lecture Video..coming soon](Modules/)  
-[Post-video Quiz..coming soon](Modules/)  
-[Assignment..coming soon](Modules/)  
+[GoogleCollabNotebook   ..coming soon] 
+[Slides   ..coming soon] 
+[Lecture Video   ..coming soon] 
+[Post-video Quiz   ..coming soon] 
+[Assignment   ..coming soon] 
 
 **Week 2**   
 **30 May Thursday: Typing, AMR databases**  
@@ -94,19 +94,19 @@ At the end of this course, participants will be able to:
 
 **Week 3**   
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
-[GoogleCollabNotebook..coming soon](Modules/)  
-[Slides..coming soon](Modules/)  
-[Lecture Video..coming soon](Modules/)  
-[Post-video Quiz..coming soon](Modules/)  
-[Assignment..coming soon](Modules/)  
+[GoogleCollabNotebook   ..coming soon]  
+[Slides   ..coming soon] 
+[Lecture Video   ..coming soon] 
+[Post-video Quiz   ..coming soon] 
+[Assignment   ..coming soon] 
 
 **Week 3**   
 **6 June Thursday: Phylogenetics, Surveillance**  
-[GoogleCollabNotebook..coming soon](Modules/)  
-[Slides..coming soon](Modules/)  
-[Lecture Video..coming soon](Modules/)  
-[Post-video Quiz..coming soon](Modules/)  
-[Assignment..coming soon](Modules/)  
+[GoogleCollabNotebook   ..coming soon]   
+[Slides   ..coming soon]   
+[Lecture Video   ..coming soon]  
+[Post-video Quiz   ..coming soon] 
+[Assignment   ..coming soon] 
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
