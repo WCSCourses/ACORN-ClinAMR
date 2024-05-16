@@ -57,7 +57,7 @@ At the end of this course, participants will be able to:
 ## Course Manual
 
 **Pre-Course Module** [Introduction to Linux for Biologists (ACORN)](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)  
-**Learning and Management (LMS)Course** [Bioinformatics for Antimicrobial Resistance - Virtual course]([https://lms.wellcomeconnectingscience.org/course/view.php?id=165](https://lms.wellcomeconnectingscience.org/course/view.php?id=164))  
+**Learning and Management (LMS)Course** [Bioinformatics for Antimicrobial Resistance - Virtual course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)
 
 **Week 1**   
 **21 May Tuesday: Bash, File formats**  
