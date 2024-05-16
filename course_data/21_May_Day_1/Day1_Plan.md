@@ -1,4 +1,4 @@
-# ![alt tag](course_data/WCS_ACORN_Logo.png)
+# <img src="course_data/WCS_ACORN_Logo.png"/>
 
 # WCS ACORN Bioinformatics for Antimicrobial Resistance
 
