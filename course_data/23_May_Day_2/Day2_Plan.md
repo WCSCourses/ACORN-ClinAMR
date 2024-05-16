@@ -7,7 +7,7 @@
 ### Module 2: Introduction to Course + Bash, File formats, Quality Control
 - [Zoom Link](https://us02web.zoom.us/j/89705311406?pwd=b1BMT0FYSGlVUjdjc0YvU3Q3aW00UT09)
 - Meeting ID: 897 0531 1406 |  Passcode: meeting
-- [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)
+- [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)
 - [Module2_Read Alignment Slides](course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pdf)    
 - [Lecture Video..coming soon](Modules/)  
 - [Post-session Quiz..coming soon](Modules/)  
