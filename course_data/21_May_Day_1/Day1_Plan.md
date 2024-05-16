@@ -1,5 +1,4 @@
 # ![alt tag](course_data/WCS_ACORN_Logo.png)
-
 # WCS ACORN Bioinformatics for Antimicrobial Resistance
 
 ## Pathogen Genome Data and Alignment
