@@ -62,53 +62,51 @@ At the end of this course, participants will be able to:
 **21 May Tuesday: Bash, File formats**  
 [Day1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
 [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)  
-[Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash and file formats.pdf)  
+[Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_file_formats.pdf)  
 [Module1_Quality Control Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control.pdf)  
-[Lecture Video](Modules/)  
-[Post-video Quiz](Modules/)  
-[Assignment](Modules/)  
+[Lecture Video..coming soon](Modules/)  
+[Post-video Quiz..coming soon](Modules/)  
+[Assignment..coming soon](Modules/)  
 
 **Week 1**   
 **23 May Thursday: Read Alignment to Genomes**  
-[GoogleCollabNotebook](Modules/)  
-[Slides](Modules/)  
-[Lecture Video](Modules/)  
-[Post-video Quiz](Modules/)  
-[Assignment](Modules/)  
+[GoogleCollabNotebook..coming soon](Modules/)  
+[Slides..coming soon](Modules/)  
+[Lecture Video..coming soon](Modules/)  
+[Post-video Quiz..coming soon](Modules/)  
+[Assignment..coming soon](Modules/)  
 
 **Week 2**   
 **28 May Tuesday: Genome Assembly**  
-[GoogleCollabNotebook](Modules/)  
-[Slides](Modules/)  
-[Lecture Video](Modules/)  
-[Post-video Quiz](Modules/)  
-[Assignment](Modules/)  
+[GoogleCollabNotebook..coming soon](Modules/)  
+[Slides..coming soon](Modules/)  
+[Lecture Video..coming soon](Modules/)  
+[Post-video Quiz..coming soon](Modules/)  
+[Assignment..coming soon](Modules/)  
 
 **Week 2**   
 **30 May Thursday: Typing, AMR databases**  
-[GoogleCollabNotebook](Modules/)  
-[Slides](Modules/)  
-[Lecture Video](Modules/)  
-[Post-video Quiz](Modules/)  
-[Assignment](Modules/)  
+[GoogleCollabNotebook..coming soon](Modules/)  
+[Slides..coming soon](Modules/)  
+[Lecture Video..coming soon](Modules/)  
+[Post-video Quiz..coming soon](Modules/)  
+[Assignment..coming soon](Modules/)  
 
 **Week 3**   
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
-[GoogleCollabNotebook](Modules/)  
-[Slides](Modules/)  
-[Lecture Video](Modules/)  
-[Post-video Quiz](Modules/)  
-[Assignment](Modules/)  
+[GoogleCollabNotebook..coming soon](Modules/)  
+[Slides..coming soon](Modules/)  
+[Lecture Video..coming soon](Modules/)  
+[Post-video Quiz..coming soon](Modules/)  
+[Assignment..coming soon](Modules/)  
 
 **Week 3**   
 **6 June Thursday: Phylogenetics, Surveillance**  
-[GoogleCollabNotebook](Modules/)  
-[Slides](Modules/)  
-[Lecture Video](Modules/)  
-[Post-video Quiz](Modules/)  
-[Assignment](Modules/)  
-     
-  
+[GoogleCollabNotebook..coming soon](Modules/)  
+[Slides..coming soon](Modules/)  
+[Lecture Video..coming soon](Modules/)  
+[Post-video Quiz..coming soon](Modules/)  
+[Assignment..coming soon](Modules/)  
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
