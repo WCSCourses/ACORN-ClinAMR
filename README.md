@@ -56,10 +56,14 @@ At the end of this course, participants will be able to:
 
 ## Course Manual
 
-**Pre-Course Module** [Introduction to Linux for Biologists (ACORN)](https://lms.wellcomeconnectingscience.org/course/view.php?id=165) |
-**Pre-Course Video** [Introduction to Sequening](https://youtu.be/4VZjvYJN18w) |
-**Learning and Management (LMS)Course** [Bioinformatics for Antimicrobial Resistance - Virtual course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)
+**Pre-Course Module**        
+[Introduction to Linux for Biologists (ACORN)](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)         
+**Pre-Course Video**           
+[Introduction to Sequening](https://youtu.be/4VZjvYJN18w)        
+**Learning and Management (LMS)Course**           
+[Bioinformatics for Antimicrobial Resistance - Virtual course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165)
 
+<!---
 **Week 1: Day 1**   
 **21 May Tuesday: Bash, File formats**  
 - [Day1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
@@ -110,6 +114,8 @@ At the end of this course, participants will be able to:
 - [Lecture Video.......coming soon]
 - [Post-session Quiz.......coming soon]
 - [Assignment.......coming soon]
+
+--->
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
