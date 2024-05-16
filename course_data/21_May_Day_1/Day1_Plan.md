@@ -1,14 +1,16 @@
 # ![alt tag](course_data/WCS_ACORN_Logo.png)
+
 # WCS ACORN Bioinformatics for Antimicrobial Resistance
 
-## Pathogen Genome Data and Alignment
+## Week 1 - Day 1 (21 May 24)
 
-### Module 1 Day 1: Introduction to Course + Bash, File formats, Quality Control
-[Zoom Link](#) | [Lectures Link](#) | [Practical Manual](#)
+### Module 1: Introduction to Course + Bash, File formats, Quality Control
+[Zoom Link](#) 
+[Lectures Link](#) | [Practical Manual](#)
 
 **Trainers** - Rito Mikhari, Collins Kigen, and the Core Team
 
-### Day 1 Plan*: 
+### Day 1 Plan: 
 *Requesting participants to join 5 mins before the start of each day and stay on zoom even while attending lecture on youtube*
 
 | Time       | Activity                                      |
@@ -22,6 +24,9 @@
 | 10:20 GMT  | 10 min break                                  |
 | 10:30 GMT  | Continue with practicals for Module 1         |
 | 11:30 GMT  | Questions and Answer sessions in main room    |
-| 12:00 GMT  | END                                           |
+| 12:00 GMT  | End of day                                           |
 
 *Note: Adjustments to the schedule might occur.*
+
+### Post-Session 
+[Learning & Management System (LMS) ACORN Course](#) | [Day 1 Assignment and Quiz](#) 
