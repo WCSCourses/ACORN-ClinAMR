@@ -66,48 +66,49 @@ At the end of this course, participants will be able to:
 - [Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_file_formats.pdf)  
 - [Module1_Quality Control Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control.pdf)  
 - [Lecture Video..coming soon](Modules/)  
-- [Post-video Quiz..coming soon](Modules/)  
+- [Post-session Quiz..coming soon](Modules/)  
 - [Assignment..coming soon](Modules/)  
 
 **Week 1**   
 **23 May Thursday: Read Alignment to Genomes**  
-[GoogleCollabNotebook.......coming soon] 
-[Slides.......coming soon]
-[Lecture Video.......coming soon]
-[Post-video Quiz.......coming soon]
-[Assignment.......coming soon]
+- [Day1_Plan](course_data/23_May_Day_2) 
+- [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)  
+- [Module2_Read Alignment Slides](course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pdf)   
+- [Lecture Video..coming soon](Modules/)  
+- [Post-session Quiz..coming soon](Modules/)  
+- [Assignment..coming soon](Modules/)  
 
 **Week 2**   
 **28 May Tuesday: Genome Assembly**  
-[GoogleCollabNotebook.......coming soon] 
-[Slides.......coming soon]
-[Lecture Video.......coming soon]
-[Post-video Quiz.......coming soon]
-[Assignment.......coming soon]
+- [GoogleCollabNotebook.......coming soon] 
+- [Slides.......coming soon]
+- [Lecture Video.......coming soon]
+- [Post-session Quiz.......coming soon]
+- [Assignment.......coming soon]
 
 **Week 2**   
 **30 May Thursday: Typing, AMR databases**  
-[GoogleCollabNotebook.......coming soon] 
-[Slides.......coming soon]
-[Lecture Video.......coming soon]
-[Post-video Quiz.......coming soon]
-[Assignment.......coming soon]
+- [GoogleCollabNotebook.......coming soon] 
+- [Slides.......coming soon]
+- [Lecture Video.......coming soon]
+- [Post-session Quiz.......coming soon]
+- [Assignment.......coming soon]
 
 **Week 3**   
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
-[GoogleCollabNotebook.......coming soon] 
-[Slides.......coming soon]
-[Lecture Video.......coming soon]
-[Post-video Quiz.......coming soon]
-[Assignment.......coming soon]
+- [GoogleCollabNotebook.......coming soon] 
+- [Slides.......coming soon]
+- [Lecture Video.......coming soon]
+- [Post-session Quiz.......coming soon]
+- [Assignment.......coming soon]
 
 **Week 3**   
 **6 June Thursday: Phylogenetics, Surveillance**  
-[GoogleCollabNotebook.......coming soon] 
-[Slides.......coming soon]
-[Lecture Video.......coming soon]
-[Post-video Quiz.......coming soon]
-[Assignment.......coming soon]
+- [GoogleCollabNotebook.......coming soon] 
+- [Slides.......coming soon]
+- [Lecture Video.......coming soon]
+- [Post-session Quiz.......coming soon]
+- [Assignment.......coming soon]
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
 
