@@ -5,7 +5,7 @@
 ## Week 1 - Day 1 (21 May 24)
 
 ### Module 1: Introduction to Course + Bash, File formats, Quality Control
-- [Zoom Link](#https://us02web.zoom.us/j/89705311406?pwd=b1BMT0FYSGlVUjdjc0YvU3Q3aW00UT09)
+- [Zoom Link](https://us02web.zoom.us/j/89705311406?pwd=b1BMT0FYSGlVUjdjc0YvU3Q3aW00UT09)
 - Meeting ID: 897 0531 1406 |  Passcode: meeting
 - [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)  
 - [Module1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_file_formats.pdf)  
