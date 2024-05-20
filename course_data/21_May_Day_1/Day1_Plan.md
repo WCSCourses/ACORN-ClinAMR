@@ -5,10 +5,13 @@
 ## Week 1 - Day 1 (21 May 24)
 
 ### Module 1: Introduction to Course + Bash, File formats, Quality Control
-- [Colab Notebook for Module 1 ](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_ACORN_vBioinf.ipynb)  
-- [Module 1_Bash and file formats Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_file_formats.pdf)  
-- [Module1_Quality Control Slides](course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control.pdf)  
-- [Lecture Video..coming soon](Modules/)  
+- [Module 1:_Bash and file formats Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_fileformats_20%20May%202024.pptx.pdf)  
+- [Module1:_Quality Control Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control_15_May_2024_updated.pptx.pdf)
+- [Colab Notebook for Module 1 (part 1)](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_part1_ACORN_vBioinf.ipynb)
+- [Colab Notebook for Module 1 (part2)](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_part2_ACORN_vBioinf.ipynb)  
+- [Lecture Video: Bash](https://youtu.be/Nby862Cm7Ac)
+- [Lecture Video: File formats ](https://youtu.be/RQaskuunQic)
+- [Lecture Video: Quality Control](https://youtu.be/s79XYtdTxkI)  
 - [Post-session Quiz..coming soon](Modules/)  
 - [Assignment..coming soon](Modules/)
   
