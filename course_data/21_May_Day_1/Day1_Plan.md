@@ -12,8 +12,8 @@
 - [Lecture Video: Bash](https://youtu.be/Nby862Cm7Ac)
 - [Lecture Video: File formats ](https://youtu.be/RQaskuunQic)
 - [Lecture Video: Quality Control](https://youtu.be/s79XYtdTxkI)  
-- [Post-session Quiz..coming soon](Modules/)  
-- [Assignment..coming soon](Modules/)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6055)  
+- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6056)
   
 **Trainers** - Rito Mikhari, Collins Kigen, and the Core Team
 
