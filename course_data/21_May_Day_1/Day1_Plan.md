@@ -1,4 +1,4 @@
-# <img src="course_data/WCS_ACORN_Logo.png"/>
+# <img src="https://github.com/WCSCourses/ACORN-ClinAMR/blob/9a460484c906bc4afa7474772dac0c97626b273b/course_data/WCS_ACORN_Logo.png"/>
 
 # WCS ACORN Bioinformatics for Antimicrobial Resistance
 
