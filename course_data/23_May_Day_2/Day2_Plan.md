@@ -5,10 +5,8 @@
 ## Week 1 - Day 2 (23 May 24)
 
 ### Module 2: Read Alignment
-- [Zoom Link](https://us02web.zoom.us/j/89705311406?pwd=b1BMT0FYSGlVUjdjc0YvU3Q3aW00UT09)
-- Meeting ID: 897 0531 1406 |  Passcode: meeting
-- [GoogleCollabNotebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)
-- [Module2_Read Alignment Slides](course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pdf)    
+- [Google Colab Notebook](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)
+- [Module 2 Read Alignment Slides](course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pdf)    
 - [Lecture Video..coming soon](Modules/)  
 - [Post-session Quiz..coming soon](Modules/)  
 - [Assignment..coming soon](Modules/)
@@ -32,7 +30,6 @@
 *Note: Adjustments to the schedule might occur.*
 
 ### Post-Session 
-[Learning & Management System (LMS) ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=164) | [Day 1 Assignment and Quiz]() 
+[Learning & Management System (LMS) ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=164) | [Day 2 Assignment and Quiz]() 
 
-### Addition Resources
-If not done yet we also have pre-course [Introduction to Linux ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165) | [Introduction to Sequening](#) 
+
