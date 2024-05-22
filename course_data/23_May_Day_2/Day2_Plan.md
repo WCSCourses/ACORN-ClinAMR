@@ -13,7 +13,7 @@
   
 **Trainers** - Arun Decano, Tung Trinh and the Core Team
 
-### Day 1 Plan: 
+### Day 2 Plan: 
 *Requesting participants to join 5 mins before the start of each day and stay on zoom even while attending lecture on youtube*
 
 | Time       | Activity                                      |
@@ -30,7 +30,7 @@
 *Note: Adjustments to the schedule might occur.*
 
 ### Post-Session 
-[Learning & Management System (LMS) ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=164) | Please complete the Day 1 Assignment and Quiz on the same. 
+[Learning & Management System (LMS) ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=164) | Please complete the Day 2 Assignment and Quiz on the same. 
 
 ### Addition Resources
 If not done yet we also have pre-course [Introduction to Linux ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165) | [Introduction to Sequening](https://youtu.be/4VZjvYJN18w) 
