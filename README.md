@@ -65,7 +65,7 @@ At the end of this course, participants will be able to:
 
 **Week 1: Day 1**   
 **21 May Tuesday: Bash, File formats**  
-- [Day1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
+- [Day 1_Plan](course_data/21_May_Day_1/Day1_Plan.md) 
 - [Module 1:_Bash and file formats Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Bash_and_fileformats_20%20May%202024.pptx.pdf)  
 - [Module1:_Quality Control Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/WCS_ACORN_Course_Slides_Module1_Quality_Control_15_May_2024_updated.pptx.pdf)
 - [Colab Notebook for Module 1 (part 1)](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/21_May_Day_1/Module_1_part1_ACORN(updated)_vBioinf.ipynb)
@@ -77,7 +77,8 @@ At the end of this course, participants will be able to:
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6056)
   
 ### Module 2: Read Alignment
-- [Module 2:_Read Alignments](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pptx.pdf)
+- [Day 2 Plan](course_data/23_May_Day_2/Day2_Plan.md)
+- [Module 2:_Read Alignment](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pptx.pdf)
 - [Colab Notebook for Module 2](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)
 - [Lecture Video: Read Alignment]( https://youtu.be/TETeTurOlkQ)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6064)  
