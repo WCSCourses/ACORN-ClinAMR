@@ -7,7 +7,7 @@
 ### Module 2: Read Alignment
 - [Module 2:_Read Alignments](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/WCS_ACORN_Course_Slides_Read_Alignment.pptx.pdf)
 - [Colab Notebook for Module 2](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/23_May_Day_2/Module_2_ACORN_Read_alignments.ipynb)
-- [Lecture Video: Bash]( https://youtu.be/TETeTurOlkQ)
+- [Lecture Video: Read Alignment]( https://youtu.be/TETeTurOlkQ)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6064)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6065)
   
