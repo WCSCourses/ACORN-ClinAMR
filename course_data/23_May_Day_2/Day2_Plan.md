@@ -34,5 +34,5 @@
 [Learning & Management System (LMS) ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=164) | Please complete the Day 2 Assignment and Quiz on the same. 
 
 ### Addition Resources
-If not done yet we also have pre-course [Introduction to Linux ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165) | [Introduction to Sequening](https://youtu.be/4VZjvYJN18w) 
+If not done yet please complete the pre-course [Introduction to Linux ACORN Course](https://lms.wellcomeconnectingscience.org/course/view.php?id=165) | [Introduction to Sequencing](https://youtu.be/4VZjvYJN18w) 
 
