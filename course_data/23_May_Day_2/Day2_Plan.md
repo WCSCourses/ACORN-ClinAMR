@@ -23,7 +23,7 @@
 | Time       | Activity                                      |
 |------------|-----------------------------------------------|
 | 7:55 GMT   |  -----Sign onto the course zoom-----              |
-| 8:05 GMT   | Move to breakout session for lecture watching time                    |
+| 8:15 GMT   | Move to breakout session for lecture watching time                    |
 | 9:20 GMT   | -----10 min break-----                          |
 | 9:30 GMT   | Remain in breakout sessions- Begin the practicals for Module 2                   |
 | 10:20 GMT  | -----10 min break-----                          |
