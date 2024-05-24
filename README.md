@@ -96,11 +96,13 @@ At the end of this course, participants will be able to:
 <!---
 **Week 2: Day 4**   
 **30 May Thursday: Typing, AMR databases**  
-- [GoogleCollabNotebook.......coming soon] 
-- [Slides.......coming soon]
-- [Lecture Video.......coming soon]
-- [Post-session Quiz.......coming soon]
-- [Assignment.......coming soon]
+- [Day 4 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_3/Day4_Plan.md)
+- [Module 4: Typing](//)
+- [Colab Notebook for Module4](https://githubtocolab.com/WCSCourses/)
+- [Lecture Video: Typing Video 1](https://youtu.be/l8JW_HQrnF4)
+- [Lecture Video: Typing Video 2](https://youtu.be/LZkAJe9qmWE)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6076)  
+- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6077)
 
 **Week 3: Day 5**   
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
