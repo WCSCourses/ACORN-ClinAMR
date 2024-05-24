@@ -11,7 +11,7 @@
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6072)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6073)
   
-**Trainers** - Patrick Musicha  and the Core Team
+**Trainers** - Patrick Musicha, Julio Diaz Caballero, Collins Kigen, Bhule Ntozini and the Core Team
 
 ### Day 3 Plan: 
 *Requesting participants to join 5 mins before the start of each day and stay on zoom even while attending lecture on youtube*
