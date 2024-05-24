@@ -84,15 +84,15 @@ At the end of this course, participants will be able to:
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6064)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6065)
 
-<!---
 **Week 2: Day 3**   
 **28 May Tuesday: Genome Assembly**  
-- [GoogleCollabNotebook.......coming soon] 
-- [Slides.......coming soon]
-- [Lecture Video.......coming soon]
-- [Post-session Quiz.......coming soon]
-- [Assignment.......coming soon]
+- [Module 3: Genome Assembly](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/GenomeAssembly_ACORN_Course_Slides.pdf)
+- [Colab Notebook for Module 3](https://githubtocolab.com/WCSCourses/)
+- [Lecture Video: Genome Assembly](https://youtu.be/NTToDDm3LZ0)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6072)  
+- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6073)
 
+<!---
 **Week 2: Day 4**   
 **30 May Thursday: Typing, AMR databases**  
 - [GoogleCollabNotebook.......coming soon] 
