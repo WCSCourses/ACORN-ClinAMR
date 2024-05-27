@@ -6,7 +6,8 @@
 
 ### Module 3: Genome Assembly
 - [Module 3: Genome Assembly](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/GenomeAssembly_ACORN_Course_Slides.pdf)
-- [Colab Notebook for Module 3](https://githubtocolab.com/WCSCourses/)
+- [Colab Notebook for Module 3](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/Module_3_Genome_Assembly.ipynb)
+- NB - run notebook before video - takes +60mins
 - [Lecture Video: Genome Assembly](https://youtu.be/NTToDDm3LZ0)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6072)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6073)
@@ -20,6 +21,7 @@
 |------------|-----------------------------------------------|
 | 7:55 GMT   |  -----Sign onto the course zoom-----              |
  8:10 GMT   | Previous Session Doubt Solving                 |
+ start assembly in notebook
 | 8:25 GMT   | Lecture Broadcasting                   |
 | 9:00 GMT   | -----20 min break-----                          |
 | 9:20 GMT   | Begin the practicals for Module 3                   |
