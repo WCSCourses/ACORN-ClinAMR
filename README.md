@@ -88,7 +88,7 @@ At the end of this course, participants will be able to:
 **28 May Tuesday: Genome Assembly**  
 - [Day 3 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/Day3_Plan.md)
 - [Module 3: Genome Assembly](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/GenomeAssembly_ACORN_Course_Slides.pdf)
-- [Colab Notebook for Module 3](https://githubtocolab.com/WCSCourses/)
+- [Colab Notebook for Module 3](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/28_May_Day_3/Module_3_Genome_Assembly.ipynb)
 - [Lecture Video: Genome Assembly](https://youtu.be/NTToDDm3LZ0)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6072)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6073)
