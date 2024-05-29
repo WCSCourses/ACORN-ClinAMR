@@ -26,7 +26,7 @@
 | 9:00 GMT   | -----20 min break-----                          |
 | 9:20 GMT   | Begin the practicals for Module 4                   |
 | 10:20 GMT  | -----10 min break-----                          |
-| 10:30 GMT  | Lecture Broadcasting (part 2 - AMR) then continuing practical         |
+| 10:30 GMT  | Lecture Broadcasting (part 2 - AMR) then continuing practicals         |
 | 11:30 GMT  | Questions and Answer sessions in main room    |
 | 12:00 GMT  | -----End of day-----                                |
 
