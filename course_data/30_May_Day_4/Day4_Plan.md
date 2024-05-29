@@ -7,7 +7,7 @@
 
 ### Module 4: Typing
 - [Module 4: Typing](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/typing_tungts_April1_2024_v2.pptx.pdf)
-- [Colab Notebook for Module4](https://githubtocolab.com/WCSCourses/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
+- [Colab Notebook for Module4](https://githubtocolab.com/WCSCourses//WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
 - [Lecture Video: Typing Video 1](https://youtu.be/l8JW_HQrnF4)
 - [Lecture Video: Typing Video 2](https://youtu.be/LZkAJe9qmWE)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6076)  
