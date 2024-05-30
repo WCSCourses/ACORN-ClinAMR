@@ -95,7 +95,7 @@ At the end of this course, participants will be able to:
 
 **Week 2: Day 4**   
 **30 May Thursday: Typing, AMR databases**  
-- [Day 4 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_3/Day4_Plan.md)
+- [Day 4 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Day4_Plan.md)
 - [Module 4: Typing](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/typing_tungts_April1_2024_v2.pptx.pdf)
 - [Colab Notebook for Module 4](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
 - [Lecture Video: Typing Video 1](https://youtu.be/l8JW_HQrnF4)
