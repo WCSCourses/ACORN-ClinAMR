@@ -118,11 +118,11 @@ At the end of this course, participants will be able to:
 **Week 3: Day 6**   
 **6 June Thursday: Phylogenetics, Surveillance**  
 - [Day 6 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Day4_Plan.md)
-- [GoogleCollabNotebook.......coming soon] 
-- [Slides.......coming soon]
-- [Lecture Video.......coming soon]
-- [Post-session Quiz.......coming soon]
-- [Assignment.......coming soon]
+- [Module 6: Phylogentics Surveillance](//)
+- [Colab Notebook for Module 6](//)
+- [Lecture Video: Phylogentics Surveillance Video](//)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6096) 
+- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6095)
 
 --->
 
