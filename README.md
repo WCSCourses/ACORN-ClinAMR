@@ -106,14 +106,18 @@ At the end of this course, participants will be able to:
 <!---
 **Week 3: Day 5**   
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
-- [GoogleCollabNotebook.......coming soon] 
-- [Slides.......coming soon]
-- [Lecture Video.......coming soon]
-- [Post-session Quiz.......coming soon]
-- [Assignment.......coming soon]
+- [Day 5 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/tree/main/course_data/4_June_Day_5)
+- [Module 5: Genome Annotation (PathogenWatch)](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
+- [PathogenWatch Website](https://pathogen.watch/)
+- [Lecture Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/Iwbcmg6eol0)
+- [Practical Introduction Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/3goUgEYdKcM)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6093)  
+- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6094)
+  
 
 **Week 3: Day 6**   
 **6 June Thursday: Phylogenetics, Surveillance**  
+- [Day 6 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Day4_Plan.md)
 - [GoogleCollabNotebook.......coming soon] 
 - [Slides.......coming soon]
 - [Lecture Video.......coming soon]
