@@ -6,7 +6,7 @@
 ## Week 3 - Day 5 (4 June 24)
 
 ### Module 5: Genome Annotation (PathogenWatch)
-- [Module 5: Genome Annotation (PathogenWatch)](//)
+- [Module 5: Genome Annotation (PathogenWatch)](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
 - [Colab Notebook for Module 5](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
 - [Lecture Video: Genome Annotation (PathogenWatch) Video](//)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6093)  
