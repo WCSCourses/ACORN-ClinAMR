@@ -12,7 +12,7 @@
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6093)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6094)
   
-**Trainers** - Tung Trinh, Arun Decano and the Core Team
+**Trainers** - Julio Diaz Caballero, Rito Mikhari and the Core Team
 
 ### Day 5 Plan: 
 *Requesting participants to join 5 mins before the start of each day and stay on zoom even while attending lecture on youtube*
