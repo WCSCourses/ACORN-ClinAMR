@@ -5,13 +5,12 @@
 
 ## Week 3 - Day 5 (4 June 24)
 
-### Module 5: Typing
-- [Module 4: Typing](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/typing_tungts_April1_2024_v2.pptx.pdf)
-- [Colab Notebook for Module 4](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
-- [Lecture Video: Typing Video 1](https://youtu.be/l8JW_HQrnF4)
-- [Lecture Video: Typing Video 2](https://youtu.be/LZkAJe9qmWE)
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6076)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6077)
+### Module 5: Genome Annotation (PathogenWatch)
+- [Module 5: Genome Annotation (PathogenWatch)](//)
+- [Colab Notebook for Module 5](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
+- [Lecture Video: Genome Annotation (PathogenWatch) Video](//)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6093)  
+- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6094)
   
 **Trainers** - Tung Trinh, Arun Decano and the Core Team
 
@@ -22,9 +21,9 @@
 |------------|-----------------------------------------------|
 | 7:55 GMT   |  -----Sign onto the course zoom-----              |
  8:10 GMT   | Previous Session Doubt Solving                 |
-| 8:25 GMT   | Lecture Live! (Typing)                   |
+| 8:25 GMT   | Streaming of Lecture in Breakoutrooms                 |
 | 9:00 GMT   | -----20 min break-----                          |
-| 9:20 GMT   | Begin the practicals for Module 4                   |
+| 9:20 GMT   | Begin the practicals for Module 5                   |
 | 10:20 GMT  | -----20 min break-----                          |
 | 10:30 GMT  | Continuing practicals         |
 | 11:30 GMT  | Questions and Answer sessions in main room    |
