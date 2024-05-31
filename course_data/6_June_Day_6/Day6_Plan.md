@@ -5,15 +5,14 @@
 
 ## Week 3 - Day 6 (6 June 24)
 
-### Module 6: Typing
-- [Module 6: Typing](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/typing_tungts_April1_2024_v2.pptx.pdf)
-- [Colab Notebook for Module 6](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
-- [Lecture Video: Typing Video 1](https://youtu.be/l8JW_HQrnF4)
-- [Lecture Video: Typing Video 2](https://youtu.be/LZkAJe9qmWE)
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6076)  
-- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6077)
+### Module 6: Phylogentics Surveillance
+- [Module 6: Phylogentics Surveillance](//)
+- [Colab Notebook for Module 6](//)
+- [Lecture Video: Phylogentics Surveillance Video](//)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6096)  
+- [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6095)
   
-**Trainers** - Tung Trinh, Arun Decano and the Core Team
+**Trainers** - Patrick Musicha, Julio DIaz Caballero, Buhle Ntozini and the Core Team
 
 ### Day 6 Plan: 
 *Requesting participants to join 5 mins before the start of each day and stay on zoom even while attending lecture on youtube*
@@ -21,10 +20,10 @@
 | Time       | Activity                                      |
 |------------|-----------------------------------------------|
 | 7:55 GMT   |  -----Sign onto the course zoom-----              |
- 8:10 GMT   | Previous Session Doubt Solving                 |
-| 8:25 GMT   | Lecture Live! (Typing)                   |
-| 9:00 GMT   | -----20 min break-----                          |
-| 9:20 GMT   | Begin the practicals for Module 4                   |
+ 8:15 GMT   | Previous Session Doubt Solving                 |
+| 8:25 GMT   | Course Feedback Sharing                    |
+| 8:45 GMT   | Streaming of Lecture in breakout rooms!                          |
+| 9:20 GMT   | Begin the practicals for Module 6                   |
 | 10:20 GMT  | -----20 min break-----                          |
 | 10:30 GMT  | Continuing practicals         |
 | 11:30 GMT  | Questions and Answer sessions in main room    |
