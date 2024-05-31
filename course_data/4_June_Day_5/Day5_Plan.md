@@ -7,8 +7,9 @@
 
 ### Module 5: Genome Annotation (PathogenWatch)
 - [Module 5: Genome Annotation (PathogenWatch)](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
-- [Colab Notebook for Module 5](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Module_4_ACORN_vBioinf.ipynb)
-- [Lecture Video: Genome Annotation (PathogenWatch) Video](//)
+- [PathogenWatch Website](https://pathogen.watch/)
+- [Lecture Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/Iwbcmg6eol0)
+- [Practical Introduction Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/3goUgEYdKcM)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6093)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6094)
   
