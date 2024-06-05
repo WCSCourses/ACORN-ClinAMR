@@ -27,7 +27,7 @@
 | 10:20 GMT  | -----10 min break-----                        |
 | 10:30 GMT  | Continuing practicals                         |
 | 11:10 GMT  | Questions and Answer sessions in main room    |
-| 11:10 GMT  | Course Wrap up and Feedback                   |
+| 11:40 GMT  | Course Wrap up and Feedback                   |
 | 12:00 GMT  | -----End of day-----                          |
 
 *Note: Adjustments to the schedule might occur.*
