@@ -19,15 +19,16 @@
 
 | Time       | Activity                                      |
 |------------|-----------------------------------------------|
-| 7:55 GMT   |  -----Sign onto the course zoom-----              |
- 8:15 GMT   | Previous Session Doubt Solving                 |
-| 8:25 GMT   | Course Feedback Sharing                    |
-| 8:45 GMT   | Streaming of Lecture in breakout rooms!                          |
-| 9:20 GMT   | Begin the practicals for Module 6                   |
-| 10:20 GMT  | -----20 min break-----                          |
-| 10:30 GMT  | Continuing practicals         |
-| 11:30 GMT  | Questions and Answer sessions in main room    |
-| 12:00 GMT  | -----End of day-----                                |
+| 7:55 GMT   |  -----Sign onto the course zoom-----          |
+| 8:05 GMT   | Previous Session Doubt Solving                |
+| 8:15 GMT   | Streaming of Lecture in breakout rooms!       |
+| 9:15 GMT   |  -----10 min break-----                       |
+| 9:25 GMT   | Begin the practicals for Module 6             |
+| 10:20 GMT  | -----10 min break-----                        |
+| 10:30 GMT  | Continuing practicals                         |
+| 11:10 GMT  | Questions and Answer sessions in main room    |
+| 11:10 GMT  | Course Wrap up and Feedback                   |
+| 12:00 GMT  | -----End of day-----                          |
 
 *Note: Adjustments to the schedule might occur.*
 
