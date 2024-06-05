@@ -43,13 +43,12 @@ At the end of this course, participants will be able to:
 - [Rito Mikhari](link),National Institute for Communicable Diseases, South Africa
 - [Collins Kigen](link),Kenya Medical Research Institute
 - [Buhle Ntozini](link),National Institute for Communicable Diseases, South Africa
-
-- [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/),Wellcome Connecting Science
+- [Jorge Batista da Rocha](https://www.wellcomeconnectingscience.org/person/batista-da-rocha-jorge/), Wellcome Connecting Science
 - [Trinh Son Tung](https://www.researchgate.net/profile/Tung-Trinh), Oxford University Clinical Research Unit (OUCRU)
-- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/),Wellcome Connecting Science
-- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/),Wellcome Connecting Science
-- [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/),Wellcome Connecting Science
-- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#),AWellcome Connecting Science
+- [Vaishnavi Vikas Gangadhar](https://www.wellcomeconnectingscience.org/person/gangadhar-vaishnavi/), Wellcome Connecting Science
+- [Isabela Malta](https://www.wellcomeconnectingscience.org/person/malta-isabela/), Wellcome Connecting Science
+- [Martin Aslett](https://www.wellcomeconnectingscience.org/person/aslett-martin/), Wellcome Connecting Science
+- [Alice Matimba](https://www.wellcomeconnectingscience.org/person/matimba-alice/#), Wellcome Connecting Science
 
 ### Detailed timetable
 [View Timetable here](ACORN_TimeTable.pdf)
