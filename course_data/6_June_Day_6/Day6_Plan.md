@@ -6,13 +6,14 @@
 ## Week 3 - Day 6 (6 June 24)
 
 ### Module 6: Phylogentics Surveillance
-- [Module 6: Phylogentics Surveillance](//)
-- [Colab Notebook for Module 6](//)
-- [Lecture Video: Phylogentics Surveillance Video](//)
+- [Module 6: Phylogentics Surveillance](https://lms.wellcomeconnectingscience.org/course/view.php?id=164&sectionid=1319)
+- [Colab Notebook for Module 6](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Analysing_Phylogenetics_ACORNrwrk_docx.ipynb)
+- [Lecture Video:  Surveillance Video](https://youtu.be/UNZAXpnHFgs)
+- [Lecture Video: Phylogenetics  Video](https://youtu.be/TZrlZ7DqHSs)
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6096)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6095)
   
-**Trainers** - Patrick Musicha, Julio DIaz Caballero, Buhle Ntozini and the Core Team
+**Trainers** - Julio Diaz Caballero, Buhle Ntozini and the Core Team
 
 ### Day 6 Plan: 
 *Requesting participants to join 5 mins before the start of each day and stay on zoom even while attending lecture on youtube*
