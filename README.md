@@ -102,14 +102,18 @@ At the end of this course, participants will be able to:
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6076)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6077)
 
-<!---
+
 **Week 3: Day 5**   
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
 - [Day 5 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/tree/main/course_data/4_June_Day_5)
-- [Module 5: Genome Annotation (PathogenWatch)](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
+- [Module 5: Genome Annotation and PathogenWatch](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
 - [PathogenWatch Website](https://pathogen.watch/)
-- [Lecture Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/Iwbcmg6eol0)
-- [Practical Introduction Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/3goUgEYdKcM)
+- [Part 1 - Lecture Video: Genome Annotation Video](https://youtu.be/Iwbcmg6eol0)
+- [Part 1 - Practical Introduction Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/3goUgEYdKcM)
+- [Part 1 - Colab Notebook - Genome Annotation](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/BacterialGenomeAnnotation.ipynb)
+- Part 2 - Pathogen Watch Lecture - Live
+- [Part 2 - Pathogen Watch Practical- pdf version, paste into word](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/Pathogenwatch_practical_assignment.docx.pdf)
+- Word version on LMS too if preferred
 - [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6093)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6094)
   
@@ -117,12 +121,14 @@ At the end of this course, participants will be able to:
 **Week 3: Day 6**   
 **6 June Thursday: Phylogenetics, Surveillance**  
 - [Day 6 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Day4_Plan.md)
-- [Module 6: Phylogentics Surveillance](//)
-- [Colab Notebook for Module 6](//)
-- [Lecture Video: Phylogentics Surveillance Video](//)
-- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6096) 
+- [Module 6: Phylogentics Surveillance](https://lms.wellcomeconnectingscience.org/course/view.php?id=164&sectionid=1319)
+- [Colab Notebook for Module 6](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Analysing_Phylogenetics_ACORNrwrk_docx.ipynb)
+- [Lecture Video:  Surveillance Video](https://youtu.be/UNZAXpnHFgs)
+- [Lecture Video: Phylogenetics  Video](https://youtu.be/TZrlZ7DqHSs)
+- [Post-session Quiz](https://lms.wellcomeconnectingscience.org/mod/quiz/view.php?id=6096)  
 - [Assignment](https://lms.wellcomeconnectingscience.org/mod/assign/view.php?id=6095)
 
+<!---
 --->
 
 Any reuse of the course materials, data or code is encouraged with due acknowledgement.
