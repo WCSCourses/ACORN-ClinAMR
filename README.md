@@ -107,6 +107,7 @@ At the end of this course, participants will be able to:
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
 - [Day 5 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/tree/main/course_data/4_June_Day_5)
 - [Module 5: Genome Annotation and PathogenWatch](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
+- [Module 5: Genome Annotation Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/Bacterial_Genome_Annotation.pdf)
 - [PathogenWatch Website](https://pathogen.watch/)
 - [Part 1 - Lecture Video: Genome Annotation Video](https://youtu.be/Iwbcmg6eol0)
 - [Part 1 - Practical Introduction Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/3goUgEYdKcM)
@@ -122,6 +123,8 @@ At the end of this course, participants will be able to:
 **6 June Thursday: Phylogenetics, Surveillance**  
 - [Day 6 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/30_May_Day_4/Day4_Plan.md)
 - [Module 6: Phylogentics Surveillance](https://lms.wellcomeconnectingscience.org/course/view.php?id=164&sectionid=1319)
+- [Module 6: Phylogentics Surveillance Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Phylogenetics.pdf)
+- [Module 6: Phylogenetics Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/surveillance_slides.pdf)
 - [Colab Notebook for Module 6](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Analysing_Phylogenetics_ACORNrwrk_docx.ipynb)
 - [Lecture Video:  Surveillance Video](https://youtu.be/UNZAXpnHFgs)
 - [Lecture Video: Phylogenetics  Video](https://youtu.be/TZrlZ7DqHSs)
