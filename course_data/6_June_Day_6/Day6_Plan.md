@@ -7,6 +7,8 @@
 
 ### Module 6: Phylogentics Surveillance
 - [Module 6: Phylogentics Surveillance](https://lms.wellcomeconnectingscience.org/course/view.php?id=164&sectionid=1319)
+- [Module 6: Phylogentics Surveillance Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Phylogenetics.pdf)
+- [Module 6: Phylogenetics Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/surveillance_slides.pdf)
 - [Colab Notebook for Module 6](https://githubtocolab.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/6_June_Day_6/Analysing_Phylogenetics_ACORNrwrk_docx.ipynb)
 - [Lecture Video:  Surveillance Video](https://youtu.be/UNZAXpnHFgs)
 - [Lecture Video: Phylogenetics  Video](https://youtu.be/TZrlZ7DqHSs)
