@@ -107,7 +107,7 @@ At the end of this course, participants will be able to:
 **4 June Tuesday: Genome Annotation, PathogenWatch**  
 - [Day 5 Plan](https://github.com/WCSCourses/ACORN-ClinAMR/tree/main/course_data/4_June_Day_5)
 - [Module 5: Genome Annotation and PathogenWatch](course_data/4_June_Day_5/WCS_ACORN_Course_Slides_Module5_PathogenWatch.pdf)
-- [Module 5: Genome Annotation Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/Bacterial_Genome_Annotation.pdf)
+- [Module 5: Bacterial Genome Annotation Slides](https://github.com/WCSCourses/ACORN-ClinAMR/blob/main/course_data/4_June_Day_5/Bacterial_Genome_Annotation.pdf)
 - [PathogenWatch Website](https://pathogen.watch/)
 - [Part 1 - Lecture Video: Genome Annotation Video](https://youtu.be/Iwbcmg6eol0)
 - [Part 1 - Practical Introduction Video: Genome Annotation (PathogenWatch) Video](https://youtu.be/3goUgEYdKcM)
